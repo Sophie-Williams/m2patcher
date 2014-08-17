@@ -1,0 +1,5 @@
+vote/
+debug/
+release/
+*.user
+*.aps
